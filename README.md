@@ -8,7 +8,7 @@ This is a fully responsive one-page restaurant website based on React.js
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
+$ cd ../("your file's name")
 $ npm install
 $ npm start
 ```
